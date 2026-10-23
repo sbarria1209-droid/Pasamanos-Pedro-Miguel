@@ -1,0 +1,22 @@
+PASAMANOS · PEDRO MIGUEL
+
+DESCARGAR
+https://github.com/sbarria1209-droid/Pasamanos-Pedro-Miguel/releases/latest/download/PASAMANOS_PEDRO_MIGUEL.zip
+
+ABRIR EL JUEGO EN WINDOWS
+1. Descarga PASAMANOS_PEDRO_MIGUEL.zip.
+2. Haz clic derecho en el ZIP y elige Extraer todo.
+3. Abre la carpeta extraída.
+4. Abre PASAMANOS_PEDRO_MIGUEL.html con Microsoft Edge o Google Chrome.
+5. Espera a que termine de cargar el contenido.
+
+El ZIP ocupa aproximadamente 112 MB; el HTML, 171 MB.
+El juego incluye modelos e imágenes incrustados y puede tardar en cargar.
+No necesita instalador EXE. No se ha verificado todo el funcionamiento sin conexión.
+
+VERSIONES
+https://github.com/sbarria1209-droid/Pasamanos-Pedro-Miguel/releases
+
+El botón Code / Download ZIP del repositorio descarga la documentación.
+Para obtener el juego, utiliza el enlace de descarga de arriba o el archivo
+PASAMANOS_PEDRO_MIGUEL.zip que aparece en Assets dentro de Releases.
